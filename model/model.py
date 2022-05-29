@@ -6,15 +6,17 @@ import operator
 import os
 import random
 from io import open
-from Queue import PriorityQueue
+from queue import PriorityQueue
+from functools import reduce
 
 import numpy as np
 import torch
+from torch._C import import_ir_module
 import torch.nn as nn
 import torch.nn.functional as F
 from torch import optim
 
-import policy
+from model.policy import DefaultPolicy
 
 SOS_token = 0
 EOS_token = 1
@@ -316,7 +318,7 @@ class Model(nn.Module):
         self.encoder = EncoderRNN(len(self.input_lang_index2word), self.emb_size, self.hid_size_enc,
                                   self.cell_type, self.depth, self.dropout).to(self.device)
 
-        self.policy = policy.DefaultPolicy(self.hid_size_pol, self.hid_size_enc, self.db_size, self.bs_size).to(self.device)
+        self.policy = DefaultPolicy(self.hid_size_pol, self.hid_size_enc, self.db_size, self.bs_size).to(self.device)
 
         if self.use_attn:
             if self.attn_type == 'bahdanau':
@@ -535,7 +537,7 @@ class Model(nn.Module):
         torch.save(self.decoder.state_dict(), self.model_dir + self.model_name + '-' + str(iter) + '.dec')
 
         with open(self.model_dir + self.model_name + '.config', 'w') as f:
-            f.write(unicode(json.dumps(vars(self.args), ensure_ascii=False, indent=4)))
+            f.write(str(json.dumps(vars(self.args), ensure_ascii=False, indent=4)))
 
     def loadModel(self, iter=0):
         print('Loading parameters of iter %s ' % iter)
@@ -544,25 +546,25 @@ class Model(nn.Module):
         self.decoder.load_state_dict(torch.load(self.model_dir + self.model_name + '-' + str(iter) + '.dec'))
 
     def input_index2word(self, index):
-        if self.input_lang_index2word.has_key(index):
+        if self.input_lang_index2word.__contains__(index):
             return self.input_lang_index2word[index]
         else:
             raise UserWarning('We are using UNK')
 
     def output_index2word(self, index):
-        if self.output_lang_index2word.has_key(index):
+        if self.output_lang_index2word.__contains__(index):
             return self.output_lang_index2word[index]
         else:
             raise UserWarning('We are using UNK')
 
     def input_word2index(self, index):
-        if self.input_lang_word2index.has_key(index):
+        if self.input_lang_word2index.__contains__(index):
             return self.input_lang_word2index[index]
         else:
             return 2
 
     def output_word2index(self, index):
-        if self.output_lang_word2index.has_key(index):
+        if self.output_lang_word2index.__contains__(index):
             return self.output_lang_word2index[index]
         else:
             return 2
