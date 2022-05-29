@@ -1,5 +1,5 @@
 import math
-import utils.delexicalize as delex 
+import utils.delexicalize as delex
 from collections import Counter
 from nltk.util import ngrams
 import json
@@ -108,7 +108,7 @@ class MultiWozDB(object):
     CUR_DIR = os.path.dirname(__file__)
 
     for domain in domains:
-        db = os.path.join('db/{}-dbase.db'.format(domain))
+        db = os.path.join('multiwoz/db/{}-dbase.db'.format(domain))
         conn = sqlite3.connect(db)
         c = conn.cursor()
         dbs[domain] = c
@@ -158,7 +158,7 @@ class MultiWozEvaluator(BaseEvaluator):
     def __init__(self, data_name):
         self.data_name = data_name
         self.slot_dict = delex.prepareSlotValuesIndependent()
-        self.delex_dialogues = json.load(open('data/multi-woz/delex.json'))
+        self.delex_dialogues = json.load(open('multiwoz/data/multi-woz/delex.json'))
         self.db = MultiWozDB()
         self.labels = list()
         self.hyps = list()
@@ -602,7 +602,7 @@ if __name__ == '__main__':
     mode = "test"
     evaluator = MultiWozEvaluator(mode)
 
-    with open("data/test_dials.json", "r") as f:
+    with open("multiwoz/data/test_dials.json", "r") as f:
         human_raw_data = json.load(f)
     human_proc_data = {}
     for key, value in human_raw_data.items():
