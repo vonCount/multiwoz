@@ -7,7 +7,7 @@ from nltk.util import ngrams
 timepat = re.compile("\d{1,2}[:]\d{1,2}")
 pricepat = re.compile("\d{1,3}[.]\d{1,2}")
 
-with open('utils/mapping.pair') as fin:
+with open('multiwoz/utils/mapping.pair') as fin:
     replacements = []
     for line in fin.readlines():
         tok_from, tok_to = line.replace('\n', '').split('\t')
