@@ -2,14 +2,14 @@ import sqlite3
 
 import numpy as np
 
-from nlp import normalize
+from utils.nlp import normalize
 
 
 # loading databases
 domains = ['restaurant', 'hotel', 'attraction', 'train', 'taxi', 'hospital']#, 'police']
 dbs = {}
 for domain in domains:
-    db = 'db/{}-dbase.db'.format(domain)
+    db = 'multiwoz/db/{}-dbase.db'.format(domain)
     conn = sqlite3.connect(db)
     c = conn.cursor()
     dbs[domain] = c
