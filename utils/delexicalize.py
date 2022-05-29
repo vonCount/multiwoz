@@ -1,7 +1,7 @@
 import json
 import re
 
-from nlp import normalize
+from utils.nlp import normalize
 
 digitpat = re.compile('\d+')
 timepat = re.compile("\d{1,2}[:]\d{1,2}")
@@ -27,7 +27,7 @@ def prepareSlotValuesIndependent():
     # read databases
     for domain in domains:
         try:
-            with open('db/' + domain + '_db.json') as fin:
+            with open('multiwoz/db/' + domain + '_db.json') as fin:
                 db_json = json.load(fin)
 
             for ent in db_json:
@@ -101,7 +101,7 @@ def prepareSlotValuesIndependent():
             dic.append((normalize('Parkside Police Station'), '[' + domain + '_' + 'name' + ']'))
 
     # add at the end places from trains
-    with open('db/' + 'train' + '_db.json') as fin:
+    with open('multiwoz/db/' + 'train' + '_db.json') as fin:
         db_json = json.load(fin)
 
     for ent in db_json:
