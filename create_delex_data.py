@@ -260,16 +260,16 @@ def createDict(word_freqs):
 
 
 def loadData():
-    if not os.path.exists("data/multi-woz"):
-        os.makedirs("data/multi-woz")
-        dataset_url = "data/MultiWOZ_2.0.zip"
+    if not os.path.exists("multiwoz/data/multi-woz"):
+        os.makedirs("multiwoz/data/multi-woz")
+        dataset_url = "multiwoz/data/MultiWOZ_2.0.zip"
         with ZipFile(dataset_url, 'r') as zip_ref:
-            zip_ref.extractall("data/multi-woz")
+            zip_ref.extractall("multiwoz/data/multi-woz")
             zip_ref.close()
-            shutil.copy('data/multi-woz/MULTIWOZ2 2/data.json', 'data/multi-woz/')
-            shutil.copy('data/multi-woz/MULTIWOZ2 2/valListFile.json', 'data/multi-woz/')
-            shutil.copy('data/multi-woz/MULTIWOZ2 2/testListFile.json', 'data/multi-woz/')
-            shutil.copy('data/multi-woz/MULTIWOZ2 2/dialogue_acts.json', 'data/multi-woz/')
+            shutil.copy('multiwoz/data/multi-woz/MULTIWOZ2 2/data.json', 'multiwoz/data/multi-woz/MULTIWOZ2 2/')
+            shutil.copy('multiwoz/data/multi-woz/MULTIWOZ2 2/valListFile.json', 'multiwoz/data/multi-woz/MULTIWOZ2 2/')
+            shutil.copy('multiwoz/data/multi-woz/MULTIWOZ2 2/testListFile.json', 'multiwoz/data/multi-woz/MULTIWOZ2 2/')
+            shutil.copy('multiwoz/data/multi-woz/MULTIWOZ2 2/dialogue_acts.json', 'multiwoz/data/multi-woz/MULTIWOZ2 2/')
 
 
 def createDelexData():
@@ -287,10 +287,10 @@ def createDelexData():
     dic = delexicalize.prepareSlotValuesIndependent()
     delex_data = {}
 
-    with open('data/multi-woz/data.json') as fin1:
+    with open('multiwoz/data/multi-woz/MULTIWOZ2 2/data.json') as fin1:
         data = json.load(fin1)
 
-    with open('data/multi-woz/dialogue_acts.json') as fin2:
+    with open('multiwoz/data/multi-woz/MULTIWOZ2 2/dialogue_acts.json') as fin2:
         data2 = json.load(fin2)
 
     cnt = 10
@@ -333,7 +333,7 @@ def createDelexData():
 
         delex_data[dialogue_name] = dialogue
 
-    with open('data/multi-woz/delex.json', 'w') as outfile:
+    with open('multiwoz/data/multi-woz/delex.json', 'w') as outfile:
         json.dump(delex_data, outfile)
 
     return delex_data
@@ -343,16 +343,16 @@ def divideData(data):
     """Given test and validation sets, divide
     the data for three different sets"""
     testListFile = []
-    with open('data/multi-woz/testListFile.json') as fin:
+    with open('multiwoz/data/multi-woz/MULTIWOZ2 2/testListFile.json') as fin:
         for line in fin:
             testListFile.append(line[:-1])
 
     valListFile = []
-    with open('data/multi-woz/valListFile.json') as fin:
+    with open('multiwoz/data/multi-woz/MULTIWOZ2 2/valListFile.json') as fin:
         for line in fin:
             valListFile.append(line[:-1])
 
-    trainListFile = open('data/trainListFile', 'w')
+    trainListFile = open('multiwoz/data/trainListFile', 'w')
 
     test_dials = {}
     val_dials = {}
@@ -401,13 +401,13 @@ def divideData(data):
                     word_freqs_sys[w] += 1
 
     # save all dialogues
-    with open('data/val_dials.json', 'w') as f:
+    with open('multiwoz/data/val_dials.json', 'w') as f:
         json.dump(val_dials, f)
 
-    with open('data/test_dials.json', 'w') as f:
+    with open('multiwoz/data/test_dials.json', 'w') as f:
         json.dump(test_dials, f)
 
-    with open('data/train_dials.json', 'w') as f:
+    with open('multiwoz/data/train_dials.json', 'w') as f:
         json.dump(train_dials, f)
 
     return word_freqs_usr, word_freqs_sys
@@ -430,13 +430,13 @@ def buildDictionaries(word_freqs_usr, word_freqs_sys):
             dic[v] = k
         idx2words.append(dic)
 
-    with open('data/input_lang.index2word.json', 'w') as f:
+    with open('multiwoz/data/input_lang.index2word.json', 'w') as f:
         json.dump(idx2words[0], f)
-    with open('data/input_lang.word2index.json', 'w') as f:
+    with open('multiwoz/data/input_lang.word2index.json', 'w') as f:
         json.dump(dicts[0], f)
-    with open('data/output_lang.index2word.json', 'w') as f:
+    with open('multiwoz/data/output_lang.index2word.json', 'w') as f:
         json.dump(idx2words[1], f)
-    with open('data/output_lang.word2index.json', 'w') as f:
+    with open('multiwoz/data/output_lang.word2index.json', 'w') as f:
         json.dump(dicts[1], f)
 
 
