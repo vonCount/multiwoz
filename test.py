@@ -84,11 +84,11 @@ def loadModelAndData(num):
         os.makedirs(args.valid_output)
 
     # Load validation file list:
-    with open('data/val_dials.json') as outfile:
+    with open('multiwoz/data/val_dials.json') as outfile:
         val_dials = json.load(outfile)
 
     # Load test file list:
-    with open('data/test_dials.json') as outfile:
+    with open('multiwoz/data/test_dials.json') as outfile:
         test_dials = json.load(outfile)
     return model, val_dials, test_dials
 
