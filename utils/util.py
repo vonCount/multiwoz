@@ -3,7 +3,10 @@ Utility functions
 '''
 
 import argparse
-import cPickle as pkl
+try:
+   import cPickle as pickle
+except:
+   import pickle
 import json
 import sys
 import math
