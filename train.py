@@ -96,10 +96,17 @@ def trainIters(model, n_epochs=10, args=args):
         model.optimizer = Adam(lr=args.lr_rate, params=filter(lambda x: x.requires_grad, model.parameters()), weight_decay=args.l2_norm)
         model.optimizer_policy = Adam(lr=args.lr_rate, params=filter(lambda x: x.requires_grad, model.policy.parameters()), weight_decay=args.l2_norm)
 
-        dials = train_dials.keys()
+        dials = list(train_dials.keys())
         random.shuffle(dials)
+
+        ShuffledDialDict = dict()
+        for dial in dials:
+            ShuffledDialDict.update({dial: train_dials[dial]})
+
+
+
         input_tensor = [];target_tensor = [];bs_tensor = [];db_tensor = []
-        for name in dials:
+        for name in ShuffledDialDict:
             val_file = train_dials[name]
             model.optimizer.zero_grad()
             model.optimizer_policy.zero_grad()
@@ -144,13 +151,13 @@ def trainIters(model, n_epochs=10, args=args):
 
 def loadDictionaries():
     # load data and dictionaries
-    with open('data/input_lang.index2word.json') as f:
+    with open('multiwoz/data/input_lang.index2word.json') as f:
         input_lang_index2word = json.load(f)
-    with open('data/input_lang.word2index.json') as f:
+    with open('multiwoz/data/input_lang.word2index.json') as f:
         input_lang_word2index = json.load(f)
-    with open('data/output_lang.index2word.json') as f:
+    with open('multiwoz/data/output_lang.index2word.json') as f:
         output_lang_index2word = json.load(f)
-    with open('data/output_lang.word2index.json') as f:
+    with open('multiwoz/data/output_lang.word2index.json') as f:
         output_lang_word2index = json.load(f)
 
     return input_lang_index2word, output_lang_index2word, input_lang_word2index, output_lang_word2index
@@ -159,11 +166,11 @@ def loadDictionaries():
 if __name__ == '__main__':
     input_lang_index2word, output_lang_index2word, input_lang_word2index, output_lang_word2index = loadDictionaries()
     # Load training file list:
-    with open('data/train_dials.json') as outfile:
+    with open('multiwoz/data/train_dials.json') as outfile:
         train_dials = json.load(outfile)
 
     # Load validation file list:
-    with open('data/val_dials.json') as outfile:
+    with open('multiwoz/data/val_dials.json') as outfile:
         val_dials = json.load(outfile)
 
     model = Model(args, input_lang_index2word, output_lang_index2word, input_lang_word2index, output_lang_word2index)
