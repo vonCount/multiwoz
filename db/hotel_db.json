@@ -9,9 +9,9 @@
             52.1963733,
             0.1987426
         ],
-        "name": "a and b guest house",
+        "name": "Гостевой дом Кутузов",
         "phone": "01223315702",
-        "postcode": "cb12dp",
+        "postcode": "Боровское шоссе",
         "price": {
             "double": "70",
             "family": "90",
@@ -32,9 +32,9 @@
             52.2157138888889,
             0.133519444444444
         ],
-        "name": "acorn guest house",
+        "name": "Гостевой дом Величъ",
         "phone": "01223353888",
-        "postcode": "cb41da",
+        "postcode": "Багратионовская",
         "price": {
             "double": "75",
             "family": "105",
@@ -46,7 +46,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "56 saint barnabas road",
+        "address": "56 Мемориальный музей космонавтики road",
         "area": "centre",
         "internet": "yes",
         "parking": "yes",
@@ -55,9 +55,9 @@
             52.1986444444444,
             0.138133333333333
         ],
-        "name": "alexander bed and breakfast",
+        "name": "Хостел Форма",
         "phone": "01223525725",
-        "postcode": "cb12de",
+        "postcode": "Беговая",
         "price": {
             "double": "50",
             "single": "40"
@@ -77,9 +77,9 @@
             52.1963733,
             0.1987426
         ],
-        "name": "allenbell",
+        "name": "Michelada",
         "phone": "01223210353",
-        "postcode": "cb13js",
+        "postcode": "Алтуфьево",
         "price": {
             "double": "60",
             "family": "90",
@@ -91,7 +91,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "63 milton road",
+        "address": "63 Парк Сокольники road",
         "area": "north",
         "internet": "no",
         "parking": "no",
@@ -100,9 +100,9 @@
             52.2173388888889,
             0.127638888888889
         ],
-        "name": "alpha-milton guest house",
+        "name": "Гостевой дом Полянка",
         "phone": "01223311625",
-        "postcode": "cb41xa",
+        "postcode": "Алексеевская",
         "price": {
             "double": "80",
             "single": "45"
@@ -122,9 +122,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "arbury lodge guesthouse",
+        "name": "Винтерфелл на Курской",
         "phone": "01223364319",
-        "postcode": "cb42je",
+        "postcode": "Аннино",
         "price": {
             "double": "75",
             "family": "100",
@@ -145,9 +145,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "archway house",
+        "name": "Гостевой дом на Мещанке",
         "phone": "01223575314",
-        "postcode": "cb43pe",
+        "postcode": "Братиславская",
         "price": {
             "double": "70",
             "single": "40"
@@ -167,9 +167,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "ashley hotel",
+        "name": "Отель Аэростар",
         "phone": "01223350059",
-        "postcode": "cb41er",
+        "postcode": "Битцевский парк",
         "price": {
             "double": "75",
             "family": "85"
@@ -189,9 +189,9 @@
             52.2176534,
             0.1747439
         ],
-        "name": "autumn house",
+        "name": "Покровский Дом",
         "phone": "01223575122",
-        "postcode": "cb58rs",
+        "postcode": "Алма-Атинская",
         "price": {
             "double": "60",
             "family": "90",
@@ -212,9 +212,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "avalon",
+        "name": "Сокол",
         "phone": "01223353071",
-        "postcode": "cb43pd",
+        "postcode": "Бульвар Адмирала Ушакова",
         "price": {
             "double": "65",
             "single": "45"
@@ -234,9 +234,9 @@
             52.1815361111111,
             0.150375
         ],
-        "name": "aylesbray lodge guest house",
+        "name": "Гостевой дом Атмосфера",
         "phone": "01223240089",
-        "postcode": "cb17sr",
+        "postcode": "Аэропорт",
         "price": {
             "double": "75",
             "family": "95",
@@ -257,9 +257,9 @@
             52.1725982,
             0.1112224
         ],
-        "name": "bridge guest house",
+        "name": "Гостевой дом Салют",
         "phone": "01223247942",
-        "postcode": "cb28rj",
+        "postcode": "Автозаводская",
         "price": {
             "double": "75",
             "family": "90",
@@ -280,9 +280,9 @@
             52.1935027777778,
             0.155355555555556
         ],
-        "name": "carolina bed and breakfast",
+        "name": "Хостел Макаров",
         "phone": "01223247015",
-        "postcode": "cb13nx",
+        "postcode": "Боровицкая",
         "price": {
             "double": "75",
             "family": "100",
@@ -303,9 +303,9 @@
             52.227589,
             0.112288
         ],
-        "name": "city centre north b and b",
+        "name": "Отель Стромынка",
         "phone": "01223312843",
-        "postcode": "cb43ht",
+        "postcode": "Бабушкинская",
         "price": {
             "single": "40"
         },
@@ -315,7 +315,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "sleeperz hotel, station road",
+        "address": "Гостиница Фрателли, station road",
         "area": "centre",
         "internet": "yes",
         "parking": "no",
@@ -324,9 +324,9 @@
             52.194866,
             0.134223
         ],
-        "name": "cityroomz",
+        "name": "Аквариум",
         "phone": "01223304050",
-        "postcode": "cb12tz",
+        "postcode": "Белорусская",
         "price": {
             "double": "67",
             "family": "77",
@@ -338,7 +338,7 @@
         "type": "hotel"
     },
     {
-        "address": "41 warkworth street",
+        "address": "41 Дом Рахманова street",
         "area": "centre",
         "internet": "yes",
         "parking": "yes",
@@ -347,9 +347,9 @@
             52.20439812598512,
             0.13059139251708984
         ],
-        "name": "el shaddai",
+        "name": "Времена Года",
         "phone": "01223327978",
-        "postcode": "cb11eg",
+        "postcode": "Ботанический сад",
         "price": {
             "double": "60",
             "family": "62",
@@ -370,9 +370,9 @@
             52.1956472222222,
             0.167444444444444
         ],
-        "name": "express by holiday inn cambridge",
+        "name": "Holiday Inn Express Москвы Павелецкой",
         "phone": "01223866800",
-        "postcode": "cb13lh",
+        "postcode": "Бауманская",
         "price": {
             "double": "90",
             "family": "90",
@@ -393,9 +393,9 @@
             52.226235,
             0.091796
         ],
-        "name": "finches bed and breakfast",
+        "name": "Хостел Гнездо Сокол",
         "phone": "01223276653",
-        "postcode": "cb30nd",
+        "postcode": "Беломорская",
         "price": {
             "double": "50",
             "single": "50"
@@ -406,7 +406,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "gonville place",
+        "address": "Трёхпрудный переулок, дом 11/13, строение 1",
         "area": "centre",
         "internet": "yes",
         "parking": "yes",
@@ -415,9 +415,9 @@
             52.201275,
             0.129935
         ],
-        "name": "gonville hotel",
+        "name": "Отель Лермонтов",
         "phone": "01223366611",
-        "postcode": "cb11ly",
+        "postcode": "Аминьевская",
         "price": {
             "double": "95",
             "family": "119",
@@ -438,9 +438,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "hamilton lodge",
+        "name": "Гостиница Солнечный",
         "phone": "01223365664",
-        "postcode": "cb41da",
+        "postcode": "Багратионовская",
         "price": {
             "double": "73",
             "family": "85",
@@ -461,9 +461,9 @@
             52.2283801,
             0.0782873
         ],
-        "name": "hobsons house",
+        "name": "The7Hostels",
         "phone": "01223304906",
-        "postcode": "cb39lh",
+        "postcode": "Авиамоторная",
         "price": {
             "double": "75",
             "family": "110",
@@ -475,7 +475,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "78-80 milton road",
+        "address": "78-80 Парк Сокольники road",
         "area": "north",
         "internet": "yes",
         "parking": "yes",
@@ -484,9 +484,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "home from home",
+        "name": "Птичка",
         "phone": "01223323555",
-        "postcode": "cb41la",
+        "postcode": "Баррикадная",
         "price": {
             "double": "75",
             "family": "105",
@@ -507,9 +507,9 @@
             52.3386166666667,
             -0.210897222222222
         ],
-        "name": "huntingdon marriott hotel",
+        "name": "Отель Марриотт Новый Арбат",
         "phone": "01480446000",
-        "postcode": "pe296fl",
+        "postcode": "Борисово",
         "price": {
             "double": "145",
             "family": "145",
@@ -530,9 +530,9 @@
             52.2157138888889,
             0.133519444444444
         ],
-        "name": "kirkwood house",
+        "name": "ShelterS Тульская",
         "phone": "01223306283",
-        "postcode": "cb41da",
+        "postcode": "Багратионовская",
         "price": {
             "double": "75",
             "family": "130",
@@ -553,9 +553,9 @@
             52.2176534,
             0.1747439
         ],
-        "name": "leverton house",
+        "name": "Гостиница Ордынка",
         "phone": "01223292094",
-        "postcode": "cb58rs",
+        "postcode": "Алма-Атинская",
         "price": {
             "double": "60",
             "family": "90",
@@ -567,7 +567,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "78-80 milton road",
+        "address": "78-80 Парк Сокольники road",
         "area": "north",
         "internet": "yes",
         "parking": "yes",
@@ -576,9 +576,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "limehouse",
+        "name": "Амбассадори",
         "phone": "01223300552",
-        "postcode": "cb42je",
+        "postcode": "Аннино",
         "price": {
             "double": "75",
             "single": "40"
@@ -589,7 +589,7 @@
         "type": "guesthouse"
     },
     {
-        "address": "365 milton road",
+        "address": "365 Парк Сокольники road",
         "area": "north",
         "internet": "yes",
         "parking": "yes",
@@ -598,9 +598,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "lovell lodge",
+        "name": "Гостиница Годжи",
         "phone": "01223425478",
-        "postcode": "cb41sr",
+        "postcode": "Беляево",
         "price": {
             "double": "65",
             "family": "70",
@@ -623,7 +623,7 @@
         ],
         "name": "rosa's bed and breakfast",
         "phone": "01223512596",
-        "postcode": "cb22ha",
+        "postcode": "Арбатская",
         "price": {
             "single": "25"
         },
@@ -642,9 +642,9 @@
             52.2213805555556,
             -0.0680333333333333
         ],
-        "name": "the cambridge belfry",
+        "name": "Колокольня Ивана Великого",
         "phone": "01954714600",
-        "postcode": "cb236bw",
+        "postcode": "Бибирево",
         "price": {
             "double": "60",
             "single": "60"
@@ -655,7 +655,7 @@
         "type": "hotel"
     },
     {
-        "address": "53-57 lensfield road",
+        "address": "53-57 Наставнический переулок, дом 18/11, строение 4",
         "area": "south",
         "internet": "yes",
         "parking": "yes",
@@ -664,9 +664,9 @@
             52.1725982,
             0.1112224
         ],
-        "name": "the lensfield hotel",
+        "name": "Отель Малинки",
         "phone": "01223355017",
-        "postcode": "cb21en",
+        "postcode": "Академическая",
         "price": {
             "double": "90",
             "family": "125",
@@ -678,7 +678,7 @@
         "type": "hotel"
     },
     {
-        "address": "regent street",
+        "address": "Сеченовский переулок, дом 7А",
         "area": "centre",
         "internet": "yes",
         "parking": "yes",
@@ -687,9 +687,9 @@
             52.19942,
             0.12722
         ],
-        "name": "university arms hotel",
+        "name": "Гостиница Университетская",
         "phone": "01223351241",
-        "postcode": "cb21ad",
+        "postcode": "Библиотека имени Ленина",
         "price": {
             "double": "124",
             "family": "144",
@@ -701,7 +701,7 @@
         "type": "hotel"
     },
     {
-        "address": "warkworth terrace",
+        "address": "Дом Рахманова terrace",
         "area": "east",
         "internet": "yes",
         "parking": "yes",
@@ -710,9 +710,9 @@
             52.1963733,
             0.1987426
         ],
-        "name": "warkworth house",
+        "name": "Дом Рахманова",
         "phone": "01223363682",
-        "postcode": "cb11ee",
+        "postcode": "Александровский сад",
         "price": {
             "double": "75",
             "family": "95",
@@ -733,9 +733,9 @@
             52.2309912,
             0.1295545
         ],
-        "name": "worth house",
+        "name": "Мак Хостел на Садовой-Кудринской",
         "phone": "01223316074",
-        "postcode": "cb41da",
+        "postcode": "Багратионовская",
         "price": {
             "double": "60",
             "family": "85",

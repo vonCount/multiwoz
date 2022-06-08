@@ -1,6 +1,6 @@
 [
     {
-        "address": "pool way, whitehill road, off newmarket road",
+        "address": "проспект Андропова, дом 17, корпус 2",
         "area": "east",
         "entrance fee": "?",
         "id": "1",
@@ -8,7 +8,7 @@
             52.208789,
             0.154883
         ],
-        "name": "abbey pool and astroturf pitch",
+        "name": "Аквакомплекс Лужники",
         "openhours": "?",
         "phone": "01223902088",
         "postcode": "cb58nt",
@@ -16,7 +16,7 @@
         "type": "swimmingpool"
     },
     {
-        "address": "park street",
+        "address": "Малый Гнездниковский переулок, дом 10, помещение III",
         "area": "centre",
         "entrance fee": "?",
         "id": "2",
@@ -24,7 +24,7 @@
             52.208699,
             0.12006
         ],
-        "name": "adc theatre",
+        "name": "Государственный Академический Театр имени Евгения Вахтангова",
         "openhours": "?",
         "phone": "01223300085",
         "postcode": "cb58as",
@@ -32,7 +32,7 @@
         "type": "theatre"
     },
     {
-        "address": "jesus lane",
+        "address": "Потешная улица, дом 3, корпус 4",
         "area": "centre",
         "entrance fee": "free",
         "id": "3",
@@ -40,7 +40,7 @@
             52.2078083333333,
             0.125616666666667
         ],
-        "name": "all saints church",
+        "name": "Храм Василия Блаженного",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m., at other times the key can be borrowed from a nearby key holder.",
         "phone": "01223452587",
         "postcode": "cb58bs",
@@ -48,15 +48,15 @@
         "type": "architecture"
     },
     {
-        "address": "heidelberg gardens, lion yard",
+        "address": "Сретенский бульвар, дом 5",
         "area": "centre",
-        "entrance fee": "5 pounds",
+        "entrance fee": "500 рублей",
         "id": "4",
         "location": [
             52.20478,
             0.11975
         ],
-        "name": "ballare",
+        "name": "Lookin Rooms",
         "openhours": "it opens from 10:30 p.m. to 03:30 a.m on thursday, from 11:00 p.m. to 04:00 a.m. on friday, from 10:00 p.m. to 03:30 a.m. on saturday, and from 10:00 p.m. to 02:30 a.m. on monday",
         "phone": "01223364222",
         "postcode": "cb23na",
@@ -64,7 +64,7 @@
         "type": "nightclub"
     },
     {
-        "address": "98 king street",
+        "address": "переулок Сивцев Вражек, дом 6/2",
         "area": "centre",
         "entrance fee": "free",
         "id": "5",
@@ -72,7 +72,7 @@
             52.207409,
             0.126738
         ],
-        "name": "broughton house gallery",
+        "name": "Галерея Гари Татинцяна",
         "openhours": "?",
         "phone": "01223314960",
         "postcode": "cb11ln",
@@ -80,7 +80,7 @@
         "type": "museum"
     },
     {
-        "address": "14 king's parade",
+        "address": "улица Александра Солженицына, дом 10, строение 1",
         "area": "south",
         "entrance fee": "free",
         "id": "6",
@@ -88,7 +88,7 @@
             52.1725982,
             0.1112224
         ],
-        "name": "byard art",
+        "name": "Галерея Ruarts",
         "openhours": "it opens from 09:30 a.m. to 5:30 p.m. from monday to saturday, and from 11:00 a.m. to 4:00 p.m. on sunday",
         "phone": "01223464646",
         "postcode": "cb21sj",
@@ -96,7 +96,7 @@
         "type": "museum"
     },
     {
-        "address": "cafe jello gallery, 13 magdalene street",
+        "address": "Манежная площадь, дом 1",
         "area": "west",
         "entrance fee": "free",
         "id": "7",
@@ -104,7 +104,7 @@
             52.221949,
             0.094948
         ],
-        "name": "cafe jello gallery",
+        "name": "Музей Пряника",
         "openhours": "it opens from 10:30 a.m. to 5:30 p.m. thursday to saturday",
         "phone": "01223312112",
         "postcode": "cb30af",
@@ -112,7 +112,7 @@
         "type": "museum"
     },
     {
-        "address": "the plough, green end, fen ditton,",
+        "address": "улица Арбат, дом 23, строение 1",
         "area": "east",
         "entrance fee": "?",
         "id": "8",
@@ -120,7 +120,7 @@
             52.21247,
             0.15619
         ],
-        "name": "camboats",
+        "name": "Moskvatrip",
         "openhours": "?",
         "phone": "01223902112",
         "postcode": "cb58sx",
@@ -128,15 +128,15 @@
         "type": "boat"
     },
     {
-        "address": "2-3 castle street",
+        "address": "улица Авиаторов, дом 18",
         "area": "west",
-        "entrance fee": "3.50 pounds",
+        "entrance fee": "350 рублей",
         "id": "9",
         "location": [
             52.210766,
             0.114795
         ],
-        "name": "cambridge and county folk museum",
+        "name": "Выставочный зал Музея русского лубка и наивного искусства «Народные картины»",
         "openhours": "it opens from monday to saturday, 10 a.m. to 5 p.m. while on sunday it opens from 2 p.m. to 5 p.m.",
         "phone": "01223355159",
         "postcode": "cb30aq",
@@ -144,7 +144,7 @@
         "type": "museum"
     },
     {
-        "address": "6 saint edward's passage",
+        "address": "Триумфальная площадь, дом 2, строение 1",
         "area": "centre",
         "entrance fee": "?",
         "id": "10",
@@ -152,7 +152,7 @@
             52.2034781571435,
             0.119176917855308
         ],
-        "name": "cambridge arts theatre",
+        "name": "Большой театр",
         "openhours": "?",
         "phone": "01223503333",
         "postcode": "cb23pj",
@@ -160,7 +160,7 @@
         "type": "theatre"
     },
     {
-        "address": "5 greens road",
+        "address": "Нахимовский проспект, владение 75А",
         "area": "east",
         "entrance fee": "free",
         "id": "11",
@@ -168,7 +168,7 @@
             52.202271,
             0.14702
         ],
-        "name": "cambridge artworks",
+        "name": "Галерея искусства стран Европы и Америки XIX - XX веков",
         "openhours": "?",
         "phone": "01223902168",
         "postcode": "cb13ef",
@@ -176,7 +176,7 @@
         "type": "museum"
     },
     {
-        "address": "49 newnham road",
+        "address": "Манежная площадь, дом 1А",
         "area": "west",
         "entrance fee": "free",
         "id": "12",
@@ -184,7 +184,7 @@
             52.198744,
             0.113364
         ],
-        "name": "cambridge book and print gallery",
+        "name": "Государственный литературный музей",
         "openhours": "it opens from 10:00 a.m. to 5:00 p.m. from tuesday to saturday",
         "phone": "01223694264",
         "postcode": "cb39ey",
@@ -192,7 +192,7 @@
         "type": "museum"
     },
     {
-        "address": "6 trinity street",
+        "address": "проспект Вернадского, дом 16",
         "area": "centre",
         "entrance fee": "free",
         "id": "13",
@@ -200,7 +200,7 @@
             52.206084,
             0.118268
         ],
-        "name": "cambridge contemporary art",
+        "name": "Московский музей современного искусства",
         "openhours": "it opens from 11:00 a.m. to 4:00 p.m. on sunday, and from 09:00 a.m. to 5:30 p.m. from monday to saturday",
         "phone": "01223324222",
         "postcode": "cb21su",
@@ -208,15 +208,15 @@
         "type": "museum"
     },
     {
-        "address": "the old pumping station, cheddars lane",
+        "address": "Уланский переулок, дом 16, строение 1А",
         "area": "east",
-        "entrance fee": "5 pounds",
+        "entrance fee": "500 рублей",
         "id": "14",
         "location": [
             52.21247,
             0.15619
         ],
-        "name": "cambridge museum of technology",
+        "name": "Политехнический музей",
         "openhours": "it opens on sunday from 2:00 p.m. to 5:00 p.m.",
         "phone": "01223368650",
         "postcode": "cb58ld",
@@ -224,15 +224,15 @@
         "type": "museum"
     },
     {
-        "address": "bateman street",
+        "address": "Новопесчаная улица, дом 23, корпус 7",
         "area": "centre",
-        "entrance fee": "4 pounds",
+        "entrance fee": "400 рублей",
         "id": "15",
         "location": [
             52.19525,
             0.126
         ],
-        "name": "cambridge university botanic gardens",
+        "name": "Ботанический сад МГУ",
         "openhours": "it opens from 10:00 a.m. to 6:00 p.m. from april to september, from 10:00 a.m. to 5:00 p.m. in february march and october, and from 10:00 a.m. to 4:00 p.m. from november to january",
         "phone": "01223336265",
         "postcode": "cb21jf",
@@ -240,7 +240,7 @@
         "type": "park"
     },
     {
-        "address": "unit su43, grande arcade, saint andrews street",
+        "address": "Угличская улица, дом 17",
         "area": "centre",
         "entrance fee": "free",
         "id": "16",
@@ -248,7 +248,7 @@
             52.204788,
             0.1214
         ],
-        "name": "castle galleries",
+        "name": "Музей Москвы",
         "openhours": "it opens from 09:00 a.m. to 6:00 p.m. every day except wednesday when it opens from 09:00 a.m. to 8:00 p.m., and sunday when it opens from 11:00 a.m. to 5:00 p.m.",
         "phone": "01223307402",
         "postcode": "cb23bj",
@@ -256,7 +256,7 @@
         "type": "museum"
     },
     {
-        "address": "cherry hinton road",
+        "address": "Покровка улица, дом 32, строение 2-3-4",
         "area": "east",
         "entrance fee": "?",
         "id": "17",
@@ -264,7 +264,7 @@
             52.186045,
             0.157515
         ],
-        "name": "cherry hinton hall and grounds",
+        "name": "Парк Зарядье",
         "openhours": "?",
         "phone": "01223446104",
         "postcode": "cb18dw",
@@ -272,7 +272,7 @@
         "type": "entertainment"
     },
     {
-        "address": "cherry hinton hall, cherry hinton road",
+        "address": "Открытое шоссе, дом 24, корпус 8 ",
         "area": "east",
         "entrance fee": "free",
         "id": "18",
@@ -280,7 +280,7 @@
             52.186045,
             0.157515
         ],
-        "name": "cherry hinton water play",
+        "name": "Аквапарк Фэнтази",
         "openhours": "it opens from may to september",
         "phone": "01223446100",
         "postcode": "cb18dw",
@@ -288,7 +288,7 @@
         "type": "park"
     },
     {
-        "address": "saint andrew's street",
+        "address": "Пятницкая улица, дом 60",
         "area": "centre",
         "entrance fee": "free",
         "id": "19",
@@ -304,7 +304,7 @@
         "type": "college"
     },
     {
-        "address": "storey's way",
+        "address": "улица Арбат, дом 36/2, строение 1",
         "area": "west",
         "entrance fee": "free",
         "id": "20",
@@ -312,7 +312,7 @@
             52.2128888888889,
             0.103127777777778
         ],
-        "name": "churchill college",
+        "name": "Успенский собор",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223336233",
         "postcode": "cb30ds",
@@ -320,7 +320,7 @@
         "type": "college"
     },
     {
-        "address": "cambridge leisure park, clifton way",
+        "address": "Малая Бронная улица, дом 4",
         "area": "south",
         "entrance fee": "?",
         "id": "21",
@@ -328,7 +328,7 @@
             52.1901222222222,
             0.136991666666667
         ],
-        "name": "cineworld cinema",
+        "name": "Иллюзион",
         "openhours": "?",
         "phone": "00872208000",
         "postcode": "cb17dy",
@@ -336,15 +336,15 @@
         "type": "cinema"
     },
     {
-        "address": "trinity lane",
+        "address": "улица Арбат, дом 36/2, строение 1",
         "area": "west",
-        "entrance fee": "2.50 pounds",
+        "entrance fee": "250 рублей",
         "id": "22",
         "location": [
             52.2048527777778,
             0.115422222222222
         ],
-        "name": "clare college",
+        "name": "Сад Эрмитаж",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223333200",
         "postcode": "cb21tl",
@@ -352,7 +352,7 @@
         "type": "college"
     },
     {
-        "address": "herschel road",
+        "address": "Международное шоссе, дом 28Б, строение 3",
         "area": "west",
         "entrance fee": "free",
         "id": "23",
@@ -360,7 +360,7 @@
             52.2040527777778,
             0.104480555555556
         ],
-        "name": "clare hall",
+        "name": "Ссудная казна",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223332360",
         "postcode": "cb39al",
@@ -368,15 +368,15 @@
         "type": "college"
     },
     {
-        "address": "1 station road",
+        "address": "Пехотная улица, дом 3, строение 16",
         "area": "centre",
-        "entrance fee": "5 pounds",
+        "entrance fee": "500 рублей",
         "id": "24",
         "location": [
             52.195173,
             0.131644
         ],
-        "name": "club salsa",
+        "name": "Night Flight",
         "openhours": "it opens at the university social club from 9:30 p.m. to 11:30 p.m. on wednesday, and from 10:00 p.m. to 01:00 a.m. on friday",
         "phone": "07782218745",
         "postcode": "cb12jb",
@@ -384,15 +384,15 @@
         "type": "nightclub"
     },
     {
-        "address": "king's parade",
+        "address": "Театральный проезд, дом 3, строение 4",
         "area": "centre",
-        "entrance fee": "2 pounds",
+        "entrance fee": "200 рублей",
         "id": "25",
         "location": [
             52.2028416666667,
             0.117844444444444
         ],
-        "name": "corpus christi",
+        "name": "Музейный парк",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223338000",
         "postcode": "cb21rh",
@@ -400,7 +400,7 @@
         "type": "college"
     },
     {
-        "address": "regent street",
+        "address": "Сеченовский переулок, дом 7А",
         "area": "centre",
         "entrance fee": "free",
         "id": "26",
@@ -408,7 +408,7 @@
             52.2013777777778,
             0.125194444444444
         ],
-        "name": "downing college",
+        "name": "Парк Останкино",
         "openhours": "it opens daily from 9 a.m. to 5 p.m. except during easter term",
         "phone": "01223334860",
         "postcode": "cb21dq",
@@ -416,7 +416,7 @@
         "type": "college"
     },
     {
-        "address": "saint andrew's street",
+        "address": "Пятницкая улица, дом 60",
         "area": "centre",
         "entrance fee": "free",
         "id": "27",
@@ -424,7 +424,7 @@
             52.203572,
             0.123778
         ],
-        "name": "emmanuel college",
+        "name": "Особняк Боткиных",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223334200",
         "postcode": "cb23ap",
@@ -432,7 +432,7 @@
         "type": "college"
     },
     {
-        "address": "8 mercers row, mercers row industrial estate",
+        "address": "улица Амундсена, дом 10",
         "area": "east",
         "entrance fee": "?",
         "id": "28",
@@ -440,7 +440,7 @@
             52.21401,
             0.14789
         ],
-        "name": "funky fun house",
+        "name": "ТРЦ Атриум",
         "openhours": "?",
         "phone": "01223304705",
         "postcode": "cb58hy",
@@ -448,7 +448,7 @@
         "type": "entertainment"
     },
     {
-        "address": "fulbourn",
+        "address": "Пречистенская набережная, дом 15, строение 1",
         "area": "east",
         "entrance fee": "free",
         "id": "29",
@@ -456,7 +456,7 @@
             52.183498,
             0.22186
         ],
-        "name": "gallery at twelve a high street",
+        "name": "Государственная Третьяковская галерея",
         "openhours": "?",
         "phone": "01223295264",
         "postcode": "cb15dh",
@@ -464,7 +464,7 @@
         "type": "museum"
     },
     {
-        "address": "trinity street",
+        "address": "Мамоновский переулок, дом 7, строение 2",
         "area": "centre",
         "entrance fee": "free",
         "id": "30",
@@ -472,7 +472,7 @@
             52.205861,
             0.117972
         ],
-        "name": "gonville and caius college",
+        "name": "Парк им. М.Горькогo",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223332400",
         "postcode": "cb21ta",
@@ -480,9 +480,9 @@
         "type": "college"
     },
     {
-        "address": "market square",
+        "address": "улица Алябьева, дом 7/33, строение 5",
         "area": "centre",
-        "entrance fee": "2 pounds",
+        "entrance fee": "200 рублей",
         "id": "31",
         "location": [
             52.2049472222222,
@@ -496,7 +496,7 @@
         "type": "architecture"
     },
     {
-        "address": "market street",
+        "address": "Павелецкая набережная, дом 2, строение 5",
         "area": "centre",
         "entrance fee": "free",
         "id": "32",
@@ -504,7 +504,7 @@
             52.2057694444444,
             0.120033333333333
         ],
-        "name": "holy trinity church",
+        "name": "Храм Успения Пресвятой Богородицы в Печатниках",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m.",
         "phone": "01223355397",
         "postcode": "cb23nz",
@@ -512,7 +512,7 @@
         "type": "architecture"
     },
     {
-        "address": "wollaston road",
+        "address": "Павловская улица, дом 25",
         "area": "centre",
         "entrance fee": "free",
         "id": "33",
@@ -520,7 +520,7 @@
             52.200692,
             0.133253
         ],
-        "name": "hughes hall",
+        "name": "Нескучный сад",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223334898",
         "postcode": "cb12ew",
@@ -528,7 +528,7 @@
         "type": "college"
     },
     {
-        "address": "jesus lane",
+        "address": "Потешная улица, дом 3, корпус 4",
         "area": "centre",
         "entrance fee": "free",
         "id": "34",
@@ -536,7 +536,7 @@
             52.209353,
             0.125342
         ],
-        "name": "jesus college",
+        "name": "Патриаршие пруды",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223339485",
         "postcode": "cb58bl",
@@ -544,7 +544,7 @@
         "type": "college"
     },
     {
-        "address": "between victoria road and the river",
+        "address": "Страстной бульвар, дом 4, строение 2, 3-й этаж",
         "area": "north",
         "entrance fee": "?",
         "id": "35",
@@ -552,7 +552,7 @@
             52.220328,
             0.115149
         ],
-        "name": "jesus green outdoor pool",
+        "name": "Открытый Аквакомплекс «Лужники»",
         "openhours": "?",
         "phone": "01223302579",
         "postcode": "cb43px",
@@ -560,15 +560,15 @@
         "type": "swimmingpool"
     },
     {
-        "address": "1 wheeler street",
+        "address": "Парк-отель «БИТЦА» ",
         "area": "centre",
-        "entrance fee": "5 pounds",
+        "entrance fee": "500 рублей",
         "id": "36",
         "location": [
             52.204192,
             0.119187
         ],
-        "name": "kambar",
+        "name": "Инкогнито",
         "openhours": "it opens from 10:00 p.m. to 4:00 a.m. depending on whether there is an event on or not",
         "phone": "01223842725",
         "postcode": "cb23qb",
@@ -576,7 +576,7 @@
         "type": "nightclub"
     },
     {
-        "address": "castle street",
+        "address": "Татарская улица, дом 14",
         "area": "west",
         "entrance fee": "free",
         "id": "37",
@@ -592,7 +592,7 @@
         "type": "museum"
     },
     {
-        "address": "king's parade",
+        "address": "Театральный проезд, дом 3, строение 4",
         "area": "centre",
         "entrance fee": "free",
         "id": "38",
@@ -608,7 +608,7 @@
         "type": "college"
     },
     {
-        "address": "jedburgh court, kings hedges",
+        "address": "Мичуринский проспект, дом 8/29",
         "area": "north",
         "entrance fee": "?",
         "id": "39",
@@ -616,7 +616,7 @@
             52.23171,
             0.122415
         ],
-        "name": "kings hedges learner pool",
+        "name": "Бассейн РГСУ",
         "openhours": "?",
         "phone": "01223353248",
         "postcode": "cb42xh",
@@ -624,7 +624,7 @@
         "type": "swimmingpool"
     },
     {
-        "address": "little saint mary's lane",
+        "address": "улица Арбат, дом 29",
         "area": "centre",
         "entrance fee": "free",
         "id": "40",
@@ -640,7 +640,7 @@
         "type": "architecture"
     },
     {
-        "address": "23 high street, fen ditton",
+        "address": "Московская область, город Солнечногорск, улица Рабухина, дом 7",
         "area": "west",
         "entrance fee": "free",
         "id": "41",
@@ -648,7 +648,7 @@
             52.222053,
             0.095086
         ],
-        "name": "lynne strover gallery",
+        "name": "Галерея Люмьер",
         "openhours": "it opens from 10:00 a.m. to 5:00 p.m. thursday to saturday",
         "phone": "01223295264",
         "postcode": "cb30aq",
@@ -656,7 +656,7 @@
         "type": "museum"
     },
     {
-        "address": "magdalene street",
+        "address": "Можайское шоссе, дом 14, строение 8",
         "area": "west",
         "entrance fee": "free",
         "id": "42",
@@ -664,7 +664,7 @@
             52.210403,
             0.115803
         ],
-        "name": "magdalene college",
+        "name": "Выставочный центр",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223332138",
         "postcode": "cb30ag",
@@ -672,7 +672,7 @@
         "type": "college"
     },
     {
-        "address": "milton country park, milton",
+        "address": "улица Академика Бочвара, дом 7, корпус 1",
         "area": "north",
         "entrance fee": "free",
         "id": "43",
@@ -680,7 +680,7 @@
             52.247361,
             0.156627
         ],
-        "name": "milton country park",
+        "name": "Парк Сокольники",
         "openhours": "always",
         "phone": "01223420060",
         "postcode": "cb46az",
@@ -688,7 +688,7 @@
         "type": "park"
     },
     {
-        "address": "anglia ruskin enterprise, east road",
+        "address": "проспект Будённого, дом 1/1",
         "area": "centre",
         "entrance fee": "?",
         "id": "44",
@@ -696,7 +696,7 @@
             52.20571,
             0.131061
         ],
-        "name": "mumford theatre",
+        "name": "Московский художественный театр им. А.П.Чехова",
         "openhours": "?",
         "phone": "08451962320",
         "postcode": "cb11pt",
@@ -704,7 +704,7 @@
         "type": "theatre"
     },
     {
-        "address": "university of cambridge, downing street",
+        "address": "Московская область, Чеховский район, cело Троицкое, дом 5",
         "area": "centre",
         "entrance fee": "free",
         "id": "45",
@@ -712,7 +712,7 @@
             52.205261,
             0.11664
         ],
-        "name": "museum of archaelogy and anthropology",
+        "name": "Государственный биологический музей им. Тимирязева",
         "openhours": "it opens from 10:30 a.m. to 4:30 p.m. tuesday to saturday",
         "phone": "01223333516",
         "postcode": "cb23dz",
@@ -720,7 +720,7 @@
         "type": "museum"
     },
     {
-        "address": "sidgwick avenue",
+        "address": "улица Академика Бочвара, дом 7, корпус 1",
         "area": "west",
         "entrance fee": "free",
         "id": "46",
@@ -728,7 +728,7 @@
             52.20987,
             0.111565
         ],
-        "name": "museum of classical archaeology",
+        "name": "Государственный биологический музей им. Тимирязева",
         "openhours": "it opens from 10:00 a.m. to 5:00 p.m. monday to friday",
         "phone": "01223335153",
         "postcode": "cb39da",
@@ -736,7 +736,7 @@
         "type": "museum"
     },
     {
-        "address": "unit g6, cambridge leisure park, clifton road",
+        "address": "Павловская улица, дом 6",
         "area": "south",
         "entrance fee": "?",
         "id": "47",
@@ -744,7 +744,7 @@
             52.1896573155949,
             0.137541476208324
         ],
-        "name": "nusha",
+        "name": "Vаниль",
         "openhours": "it opens from 5:00 p.m. to 01:30 a.m. on tuesday, friday and saturday, and from 5:00 p.m. to midnight on monday, wednesday, thursday and sunday.",
         "phone": "01223902158",
         "postcode": "cb17dy",
@@ -752,7 +752,7 @@
         "type": "entertainment"
     },
     {
-        "address": "trinity lane",
+        "address": "улица Арбат, дом 36/2, строение 1",
         "area": "centre",
         "entrance fee": "free",
         "id": "48",
@@ -760,7 +760,7 @@
             52.2052638888889,
             0.116641666666667
         ],
-        "name": "old schools",
+        "name": "Парк Набережный",
         "openhours": "it opens normally daily from 08:00 a.m. to 5:45 p.m.",
         "phone": "01223332320",
         "postcode": "cb21tt",
@@ -768,7 +768,7 @@
         "type": "architecture"
     },
     {
-        "address": "gonville place",
+        "address": "Трёхпрудный переулок, дом 11/13, строение 1",
         "area": "centre",
         "entrance fee": "?",
         "id": "49",
@@ -776,15 +776,15 @@
             52.201275,
             0.129935
         ],
-        "name": "parkside pools",
+        "name": "Бассейн Буревестник",
         "openhours": "?",
         "phone": "01223446100",
-        "postcode": "cb11ly",
+        "postcode": "Аминьевская",
         "pricerange": "?",
         "type": "swimmingpool"
     },
     {
-        "address": "trumpington street",
+        "address": "улица Арбат, дом 23, строение 1",
         "area": "centre",
         "entrance fee": "free",
         "id": "50",
@@ -792,7 +792,7 @@
             52.202611,
             0.120658
         ],
-        "name": "pembroke college",
+        "name": "Памятник архитектуры год 1884",
         "openhours": "any time except may and june",
         "phone": "01223338100",
         "postcode": "cb21rf",
@@ -800,7 +800,7 @@
         "type": "college"
     },
     {
-        "address": "girton college, huntingdon road",
+        "address": "Олимпийский проспект, дом 16, строение 2",
         "area": "west",
         "entrance fee": "free",
         "id": "51",
@@ -808,7 +808,7 @@
             52.228375,
             0.0837527777777778
         ],
-        "name": "people's portraits exhibition at girton college",
+        "name": "people's portraits exhibition at Храм Живоначальной Троицы в Останкине",
         "openhours": "it opens from 2:00 p.m. to 4:00 p.m. daily from february to july",
         "phone": "01223338901",
         "postcode": "cb3ojg",
@@ -816,7 +816,7 @@
         "type": "museum"
     },
     {
-        "address": "10 king s parade",
+        "address": "Нижний кисельный переулок, дом 4",
         "area": "centre",
         "entrance fee": "free",
         "id": "52",
@@ -824,7 +824,7 @@
             52.2034781571435,
             0.119176917855308
         ],
-        "name": "primavera",
+        "name": "Ресторана Палаццо Дукале",
         "openhours": "it opens from 11:00 a.m. to 4:30 p.m. on sunday, from 10:00 a.m. to 5:00 p.m. from monday to friday, and from 10:00 a.m. to 5:30 p.m. on saturday",
         "phone": "01223357708",
         "postcode": "cb21sj",
@@ -832,9 +832,9 @@
         "type": "museum"
     },
     {
-        "address": "silver street",
+        "address": "Петрозаводская улица, дом 28, строение 1",
         "area": "west",
-        "entrance fee": "2.50 pounds",
+        "entrance fee": "250 рублей",
         "id": "53",
         "location": [
             52.2018,
@@ -848,7 +848,7 @@
         "type": "college"
     },
     {
-        "address": "39 fitzroy street",
+        "address": "Народный проспект, дом 5",
         "area": "centre",
         "entrance fee": "free",
         "id": "54",
@@ -856,7 +856,7 @@
             52.206823,
             0.131361
         ],
-        "name": "regency gallery",
+        "name": "Еврейский музей и центр толерантности",
         "openhours": "?",
         "phone": "01223365454",
         "postcode": "cb11er",
@@ -864,7 +864,7 @@
         "type": "museum"
     },
     {
-        "address": "cambridge passenger cruisers, jubilee house",
+        "address": "Малая Сухаревская площадь, дом 10",
         "area": "north",
         "entrance fee": "?",
         "id": "55",
@@ -872,7 +872,7 @@
             52.229515,
             0.111645
         ],
-        "name": "riverboat georgina",
+        "name": "Теплоход Сильвер",
         "openhours": "?",
         "phone": "01223902091",
         "postcode": "cb43ax",
@@ -880,7 +880,7 @@
         "type": "boat"
     },
     {
-        "address": "anglia ruskin university, east road",
+        "address": "улица Арбат, дом 29",
         "area": "centre",
         "entrance fee": "free",
         "id": "56",
@@ -888,7 +888,7 @@
             52.20571,
             0.131061
         ],
-        "name": "ruskin gallery",
+        "name": "Галерея народного художника СССР Александр Шилова",
         "openhours": "?",
         "phone": "01245493131",
         "postcode": "cb11pt",
@@ -896,7 +896,7 @@
         "type": "museum"
     },
     {
-        "address": "the belfast yard, coldham's road",
+        "address": "Новослободская улица, дом 50/1, строение 1",
         "area": "east",
         "entrance fee": "free",
         "id": "57",
@@ -904,7 +904,7 @@
             52.20858,
             0.148702
         ],
-        "name": "saint barnabas press gallery",
+        "name": "Мемориальный музей космонавтики",
         "openhours": "?",
         "phone": "01223902116",
         "postcode": "cb13ew",
@@ -912,7 +912,7 @@
         "type": "museum"
     },
     {
-        "address": "king's parade",
+        "address": "Театральный проезд, дом 3, строение 4",
         "area": "centre",
         "entrance fee": "free",
         "id": "58",
@@ -928,9 +928,9 @@
         "type": "college"
     },
     {
-        "address": "saint john's street",
+        "address": "проспект Мира, дом 111",
         "area": "centre",
-        "entrance fee": "2.50 pounds",
+        "entrance fee": "250 рублей",
         "id": "59",
         "location": [
             52.208803,
@@ -944,7 +944,7 @@
         "type": "college"
     },
     {
-        "address": "lensfield road",
+        "address": "Наставнический переулок, дом 18/11, строение 4",
         "area": "centre",
         "entrance fee": "free",
         "id": "60",
@@ -952,7 +952,7 @@
             52.19806,
             0.123185
         ],
-        "name": "scott polar museum",
+        "name": "Дарвиновский музей",
         "openhours": "it opens from 10:00 a.m. to 4:00 p.m. from tuesday to saturday",
         "phone": "01223336540",
         "postcode": "cb21er",
@@ -960,7 +960,7 @@
         "type": "museum"
     },
     {
-        "address": "granta place, mill lane",
+        "address": "улица Авиаторов, дом 16",
         "area": "centre",
         "entrance fee": "?",
         "id": "61",
@@ -968,7 +968,7 @@
             52.200975,
             0.116298
         ],
-        "name": "scudamores punting co",
+        "name": "Магазин Речных Прогулок",
         "openhours": "?",
         "phone": "01223359750",
         "postcode": "cb21rs",
@@ -976,7 +976,7 @@
         "type": "boat"
     },
     {
-        "address": "fen causeway, newnham road,",
+        "address": "улица 9 Мая, дом 14",
         "area": "south",
         "entrance fee": "free",
         "id": "62",
@@ -984,7 +984,7 @@
             52.17674,
             0.14559
         ],
-        "name": "sheep's green and lammas land park fen causeway",
+        "name": "sheep's green and Измайловский Парк культуры и отдыха Измайловский Парк культуры и отдыха",
         "openhours": "it is open from may to sept",
         "phone": "01223302580",
         "postcode": "cb22ad",
@@ -992,7 +992,7 @@
         "type": "park"
     },
     {
-        "address": "sidney street",
+        "address": "проспект Андропова, дом 26",
         "area": "centre",
         "entrance fee": "free",
         "id": "63",
@@ -1000,7 +1000,7 @@
             52.207464,
             0.121342
         ],
-        "name": "sidney sussex college",
+        "name": "Дом Якоби",
         "openhours": "it opens daily from 9 a.m. to 5 p.m. except during easter term",
         "phone": "01223338800",
         "postcode": "cb23hu",
@@ -1008,15 +1008,15 @@
         "type": "college"
     },
     {
-        "address": "1-6 corn exchange street",
+        "address": "Сретенский бульвар, дом 5",
         "area": "centre",
-        "entrance fee": "4 pounds",
+        "entrance fee": "400 рублей",
         "id": "64",
         "location": [
             52.203878,
             0.12044
         ],
-        "name": "soul tree nightclub",
+        "name": "Ночной Клуб Izi",
         "openhours": "it opens from 9:30 p.m. to 02:00 a.m. from sunday to tuesday, from 9:00 p.m. to 02:00 a.m. on wednesday, and from 9:00 p.m. to 02:30 a.m. from thursday to saturday",
         "phone": "01223477900",
         "postcode": "cb23qf",
@@ -1024,7 +1024,7 @@
         "type": "nightclub"
     },
     {
-        "address": "cambridge leisure park, clifton way",
+        "address": "Малая Бронная улица, дом 4",
         "area": "south",
         "entrance fee": "?",
         "id": "65",
@@ -1032,7 +1032,7 @@
             52.18568,
             0.144638
         ],
-        "name": "tenpin",
+        "name": "Пекинский сад",
         "openhours": "?",
         "phone": "08715501010",
         "postcode": "cb17dy",
@@ -1040,7 +1040,7 @@
         "type": "entertainment"
     },
     {
-        "address": "wheeler street",
+        "address": "Союзный проспект, дом 15А",
         "area": "centre",
         "entrance fee": "?",
         "id": "66",
@@ -1048,7 +1048,7 @@
             52.20431,
             0.119215
         ],
-        "name": "the cambridge corn exchange",
+        "name": "GIPSY",
         "openhours": "?",
         "phone": "01223357851",
         "postcode": "cb23qe",
@@ -1056,7 +1056,7 @@
         "type": "theatre"
     },
     {
-        "address": "251a chesterton road",
+        "address": "улица Академика Миллионщикова, дом 1, строение 2",
         "area": "centre",
         "entrance fee": "?",
         "id": "67",
@@ -1064,7 +1064,7 @@
             52.211939,
             0.118661
         ],
-        "name": "the cambridge punter",
+        "name": "PIVBAR",
         "openhours": "?",
         "phone": "07807718591",
         "postcode": "cb41as",
@@ -1072,7 +1072,7 @@
         "type": "boat"
     },
     {
-        "address": "colville road, cherry hinton",
+        "address": "проспект Андропова, дом 35А",
         "area": "east",
         "entrance fee": "?",
         "id": "68",
@@ -1080,7 +1080,7 @@
             52.186715,
             0.17882
         ],
-        "name": "the cherry hinton village centre",
+        "name": "the Красная Площадь",
         "openhours": "it opens from 09:00 a.m. to 8:00 p.m. on sunday, and from 09:00 a.m. to 10:00 p.m. from monday to saturday",
         "phone": "01223576412",
         "postcode": "cb19ej",
@@ -1088,15 +1088,15 @@
         "type": "mutliple sports"
     },
     {
-        "address": "8 market passage",
+        "address": "Писцовая улица, дом 10",
         "area": "centre",
-        "entrance fee": "5 pounds",
+        "entrance fee": "500 рублей",
         "id": "69",
         "location": [
             52.206144,
             0.120283
         ],
-        "name": "the fez club",
+        "name": "Mix club",
         "openhours": "it opens on monday from 9 p.m. to 2 a.m.. it is closed on tuesday. from wednesday to saturday it opens from 9 p.m. to 2 a.m. and it is closed on sunday",
         "phone": "01223519224",
         "postcode": "cb23hx",
@@ -1104,7 +1104,7 @@
         "type": "nightclub"
     },
     {
-        "address": "trumpington street",
+        "address": "улица Арбат, дом 23, строение 1",
         "area": "centre",
         "entrance fee": "free",
         "id": "70",
@@ -1112,7 +1112,7 @@
             52.19855,
             0.121785
         ],
-        "name": "the fitzwilliam museum",
+        "name": "the Государственный музей изобразительных искусств имени А.С. Пушкина",
         "openhours": "from tuesday to saturday it opens from 10 a.m. to 5 p.m. while on sunday, monday and bank holidays it opens from 12 to 5 p.m.",
         "phone": "01223332900",
         "postcode": "cb21rb",
@@ -1120,7 +1120,7 @@
         "type": "museum"
     },
     {
-        "address": "clifton way",
+        "address": "улица Авиаторов, дом 14",
         "area": "south",
         "entrance fee": "?",
         "id": "71",
@@ -1128,7 +1128,7 @@
             52.190325,
             0.135755
         ],
-        "name": "the junction",
+        "name": "Театр имени Пушкина",
         "openhours": "?",
         "phone": "01223511511",
         "postcode": "cb17gx",
@@ -1136,7 +1136,7 @@
         "type": "theatre"
     },
     {
-        "address": "2 norfolk street",
+        "address": "проспект Будённого, дом 24, корпус 1",
         "area": "centre",
         "entrance fee": "?",
         "id": "72",
@@ -1144,7 +1144,7 @@
             52.204746,
             0.136515
         ],
-        "name": "the man on the moon",
+        "name": "Cockys Irish Pub",
         "openhours": "?",
         "phone": "01223474144",
         "postcode": "cb12lf",
@@ -1152,7 +1152,7 @@
         "type": "concerthall"
     },
     {
-        "address": "22 sidney street",
+        "address": "Малая Бронная улица, дом 4",
         "area": "south",
         "entrance fee": "?",
         "id": "73",
@@ -1160,7 +1160,7 @@
             52.1725982,
             0.1112224
         ],
-        "name": "the place",
+        "name": "Гараж",
         "openhours": "it opens from 10:30 p.m. to 03:30 a.m. on tuesday, from 10:00 p.m. to 02:30 a.m. on thursday, from 10:00 p.m. to 04:00 a.m. on friday and saturday, and from 10:00 p.m. to 02:00 a.m. on sunday",
         "phone": "01223324600",
         "postcode": "cb23hg",
@@ -1168,15 +1168,15 @@
         "type": "nightclub"
     },
     {
-        "address": "trinity street",
+        "address": "Мамоновский переулок, дом 7, строение 2",
         "area": "centre",
-        "entrance fee": "1 pound",
+        "entrance fee": "100 рублей",
         "id": "74",
         "location": [
             52.207081,
             0.117622
         ],
-        "name": "trinity college",
+        "name": "«Аптекарский огород»",
         "openhours": "it opens normally daily from 9 a.m. to 5 p.m. except easter term",
         "phone": "01223338400",
         "postcode": "cb21tq",
@@ -1184,7 +1184,7 @@
         "type": "college"
     },
     {
-        "address": "the grafton centre, east road",
+        "address": "проспект Андропова, дом 30",
         "area": "centre",
         "entrance fee": "?",
         "id": "75",
@@ -1192,7 +1192,7 @@
             52.20571,
             0.131061
         ],
-        "name": "vue cinema",
+        "name": "Формула Кино",
         "openhours": "?",
         "phone": "08712240240",
         "postcode": "cb11ps",
@@ -1200,7 +1200,7 @@
         "type": "cinema"
     },
     {
-        "address": "wandlebury ring, gog magog hills, babraham",
+        "address": "улица Арбат, дом 32",
         "area": "south",
         "entrance fee": "free",
         "id": "76",
@@ -1208,7 +1208,7 @@
             52.119551,
             0.181018
         ],
-        "name": "wandlebury country park",
+        "name": "Парк Лефортово",
         "openhours": "always",
         "phone": "01223243830",
         "postcode": "cb223ae",
@@ -1216,7 +1216,7 @@
         "type": "park"
     },
     {
-        "address": "unit 8, viking way, bar hill",
+        "address": "Столешников переулок, дом 9, строение 5",
         "area": "west",
         "entrance fee": "?",
         "id": "77",
@@ -1224,7 +1224,7 @@
             52.254,
             0.016478
         ],
-        "name": "whale of a time",
+        "name": "Центральный Детский магазин",
         "openhours": "it opens from 09:30 a.m. to 6:00 p.m. daily",
         "phone": "01954781018",
         "postcode": "cb238el",
@@ -1232,7 +1232,7 @@
         "type": "entertainment"
     },
     {
-        "address": "free school lane",
+        "address": "улица Арбат, дом 31",
         "area": "centre",
         "entrance fee": "free",
         "id": "78",
@@ -1240,7 +1240,7 @@
             52.203117,
             0.118928
         ],
-        "name": "whipple museum of the history of science",
+        "name": "Музей истории науки и техники",
         "openhours": "it opens from 12:30 p.m. to 4:30 p.m. from monday to friday",
         "phone": "01223330906",
         "postcode": "cb23rh",
@@ -1248,7 +1248,7 @@
         "type": "museum"
     },
     {
-        "address": "gwydir street, no. 5 dale's brewery",
+        "address": "Спиридоньевский переулок, дом 9, строение 1",
         "area": "centre",
         "entrance fee": "free",
         "id": "79",
@@ -1256,7 +1256,7 @@
             52.2002,
             0.1385
         ],
-        "name": "williams art and antiques",
+        "name": "Галерея Мир-Арт",
         "openhours": "it opens from 11:00 a.m. to 6:00 p.m. from tuesday to friday, from 11:00 a.m. to 5:00 p.m. on saturday and sunday, and it is closed on monday",
         "phone": "01223311687",
         "postcode": "cb12lj",
